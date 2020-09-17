@@ -9,7 +9,7 @@ I started out with the very informative courses at [The Odin Project](https://ww
 <img src="assets/images/screenshots/one.PNG" width="500px">
 
 ## Tech/Framewroks Used
-Nothing fancy just same old HTML5, CSS3 and Javascript
+HTML5, CSS3 and Javascript
 
 ## Features
 * Clean minimal design.
