@@ -54,7 +54,8 @@ opArray.forEach(element => {
 });
 
 ```
-
+## Use the calculator
+You can find the calculator [here](https://ashoksrinivasan96.github.io/Calculator/)
 
 ## Credits
 **©Ashok Srinivasan | 2020**
